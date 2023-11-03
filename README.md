@@ -1,4 +1,4 @@
-# A Wix Events and Wix eCommerce Next.js Music Tour Template
+# web application with wix headless CMS
 
 ![Template showcase](docs/media/logo.png)
 

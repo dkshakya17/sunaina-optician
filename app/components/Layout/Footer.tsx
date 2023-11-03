@@ -18,8 +18,7 @@ const Footer = () => (
     </div>
     <div className="mx-auto flex flex-col-reverse items-center sm:flex-row gap-1 sm:gap-16 pt-3 sm:pt-11 pb-4 sm:pb-20 px-6 sm:px-14 text-12 sm:text-xs">
       <p className="font-default mb-10 flex-1">
-        © 2023 BY Sunaina Opticians. CREATED BY DEEPPROGRAMMER
-        <a href="/terms">TERMS & CONDITIONS</a>.
+        © 2023 BY Sunaina Opticians. CREATED BY Deep Programmer
       </p>
       <a href="/terms">TERMS & CONDITIONS</a>
       <a href="/shipping">SHIPPING & RETURNS</a>
